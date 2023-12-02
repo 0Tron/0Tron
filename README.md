@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h1 align="center">Hi 👋, I'm Oscar T.</h1>
 <h3 align="center">A Full Stack Web Developer based out of San Francisco</h3>
 
 - 🌱 I’m currently learning **Javascript, React.js, Ruby, Ruby on Rails**
 
--☁️ Ask me about JavaScript
+- ☁️ Ask me about JavaScript
   
 - 📫 Oscarrd8@gmail.com
    
